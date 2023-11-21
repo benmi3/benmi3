@@ -18,7 +18,7 @@ and also learn how to create better software and documentation!
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=benmi3&bg_color=40,e96443,904e95&title_color=fff&text_color=ffa)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=benmi3&show_icons=true&theme=tokyonight)
 <!--
 **benmi3/benmi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
