@@ -19,6 +19,13 @@ and also learn how to create better software and documentation!
 ---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=benmi3&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benmi3&layout=compact&theme=tokyonight)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=benmi3&show_icons=true&theme=tokyonight" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmi3&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **benmi3/benmi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
