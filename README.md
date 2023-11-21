@@ -1,4 +1,23 @@
 ### Hi there 👋
+Welcome to my Github page!
+
+---
+## 🔭 I’m currently working on ...
+I am currently working on getting as mutch knowledge as possible
+about software engineering, development and architecture
+
+---
+## 🌱 I’m currently learning ...
+Altho I love deepening my knowledge about Python and Rust, I also love to learn new things.
+Java is a language im not too familiar, but looks very interesting!
+
+---
+## 👯 I’m looking to collaborate on ...
+Anything I can help with. Im currently looking for a project that I can use my knowledge in,
+and also learn how to create better software and documentation!
+
+---
+
 
 <!--
 **benmi3/benmi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
