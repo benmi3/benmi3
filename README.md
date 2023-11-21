@@ -19,7 +19,7 @@ and also learn how to create better software and documentation!
 ---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=benmi3&show_icons=true&theme=tokyonight&card_width=300)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benmi3&layout=compact&theme=tokyonight&card_width=300)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benmi3&layout=compact&theme=tokyonight&card_width=300) -->
 
 
 <!--
