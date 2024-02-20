@@ -5,11 +5,12 @@ Welcome to my Github page!
 ## 🔭 I’m currently working on ...
 I am currently working on getting as mutch knowledge as possible
 about software engineering, development and architecture
+Currently working the the Software industry, embedded software.
 
 ---
 ## 🌱 I’m currently learning ...
 Altho I love deepening my knowledge about Python and Rust, I also love to learn new things.
-Java is a language im not too familiar, but looks very interesting!
+For work I mainly use C and C++.
 
 ---
 ## 👯 I’m looking to collaborate on ...
