@@ -9,8 +9,8 @@ Currently working the the Software industry, embedded software.
 
 ---
 ## 🌱 I’m currently learning ...
-Altho I love deepening my knowledge about Python and Rust, I also love to learn new things.
-For work I mainly use C and C++.
+Altho I love deepening my knowledge about Rust and Go, I also love to learn new things.
+For work I mainly use C, C++, HTML, CSS and JS, but try to sneak in Rust and Go when I can.
 
 ---
 ## 👯 I’m looking to collaborate on ...
